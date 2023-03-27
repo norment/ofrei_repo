@@ -11,6 +11,7 @@
 * ``426e6bfecebf418fcb89fa7bc0f8d2dc`` 2023/03/10/mixer.sif https://github.com/precimed/mixer_private/tree/066edcc04a166dd4977fab2ec4daed4c1a70254e
 * ``61de61b1f528afeebc2e0f1e15328fed`` 2023/03/15/mixer.sif https://github.com/precimed/mixer_private/tree/c3d2b6a5a2945e75d8a52d5cc077ac4bdcdbb78d
 * ``e6619be4fc1ec4a924ebf0e9a448c893`` 2023/03/17/mixer.sif https://github.com/precimed/mixer_private/tree/f9713a27e7d57384f17d720febddaccb95c82414
+* ``601306c1f3c901b86abf99b6538d6acf`` 2023/03/27/mixer.sif https://github.com/precimed/mixer_private/tree/0c0618c4a8ed54a7965dad2c2af64647bc4ca045
 
 
 
